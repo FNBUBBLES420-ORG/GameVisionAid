@@ -1,0 +1,31 @@
+# 🎯 Core Detection Framework
+ultralytics==8.3.115
+opencv-python>==4.8.1.78
+numpy>==1.26.4
+colorama==0.4.6
+pandas==2.2.3
+requests==2.32.3
+customtkinter==5.2.2
+pywin32==310
+
+# ⚙️ PyTorch + DirectML (AMD) + NVIDIA
+torch==2.7.0+cu118 # Nvidia
+torchvision==0.22.0+cu118 # Nvidia
+torchaudio==2.7.0+cu118 # Nvidia
+torch==2.7.0 # AMD
+torchvision==0.22.0 # AMD
+torchaudio==2.7.0 # AMD
+torch-directml==0.2.5.dev240914 # AMD
+
+# 🧠 ONNX Support (NVIDIA/AMD/CPU)
+onnx>==1.17.0
+onnx-simplifier==0.4.36
+onnxruntime>==1.17.0
+onnxruntime-directml>==1.17.0
+
+# ⚡ NVIDIA CUDA/Accelerated Backend
+# if you have nvidia gpu remove the # at the beginning of cupy-cuda11x to install cupy-cuda11x
+# cupy-cuda11x # Use this instead of generic cupy for CUDA 11.8
+
+# ⚙️ TensorRT Inference (for .engine models)
+# tensorrt==8.6.1  # Pinning version for stability and compatibility

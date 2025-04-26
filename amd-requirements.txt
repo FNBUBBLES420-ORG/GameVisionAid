@@ -1,0 +1,16 @@
+opencv-python
+torch  # Let pip choose the compatible version
+torchvision  # Let pip choose the compatible version
+torchaudio  # Let pip choose the compatible version
+onnxruntime
+onnx-simplifier
+onnx
+pandas
+numpy
+gitpython
+bettercam
+colorama
+requests
+ultralytics
+torch-directml  # Latest version for AMD GPUs on Windows using DirectML
+onnxruntime-directml  # Use ONNX Runtime with DirectML support for AMD GPUs
