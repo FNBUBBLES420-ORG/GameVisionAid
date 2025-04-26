@@ -1,0 +1,82 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Log & debug
+*.log
+*.bak
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# OS-generated files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Compiled binaries & EXEs
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Exported or auto-generated models
+Export-Models/models/
+Export-Models/ultralytics1/
+Export-Models/utils/butter-scotch-cookies.txt
+
+# Setup scripts (exclude final EXE, but ignore generated files)
+Game-Vision-Auto-Setup/autosetup.log
+Game-Vision-Auto-Setup/temp/
+Game-Vision-Auto-Setup/__pycache__/
+
+# Ignore installer output
+*.whl
+*.tar.gz
+*.zip
+
+# Ignore these specific batch scripts if they generate output
+Main/cupy_cuda11x.bat
+Main/install_pytorch.bat
+Main/python3119.bat
+Main/launcher.bat
+AMD-GPU-Only/python3119.bat
+
+# Cache or hash files
+*.sha256
+*.md5
+
+# Avoid uploading potentially large model files by default
+models/*.onnx
+models/*.engine
+models/*.pt
+
+# Uncomment below if you want to ignore all images
+# *.png
+# *.jpg
+# *.jpeg
+
+# Prevent .env or secrets from being committed
+.env
+.env.*
+
+# Optional: ignore personal contribution templates
+models/Contact-Bubbles.MD
+models/Contact.md
+models/TeamPlayers.md
