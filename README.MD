@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FNBUBBLES420-ORG/game-vision-aid/blob/main/banner/Game_Vision_Aid.png" alt="Game Vision Aid Banner" width="400"/>
+  <img src="https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/banner/Game_Vision_Aid.png" alt="Game Vision Aid Banner" width="400"/>
 </p>
 
 
@@ -17,9 +17,9 @@
 
 # **Including**: `Readme.md`, `License.md`, `Code_of_Conduct.md`, `Security.md`.
 
-### **[Contribute](https://github.com/FNBUBBLES420-ORG/game-vision-aid/blob/main/CONTRIBUTING.md)**
+### **[Contribute](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/CONTRIBUTING.md)**
 
-## [Funding](https://github.com/FNBUBBLES420-ORG/game-vision-aid/blob/main/.github/FUNDING.yml)
+## [Funding](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/.github/FUNDING.yml)
 
 </div>
 
@@ -45,12 +45,12 @@ Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.o
 # **[Discord Link](https://discord.gg/bjbmWaP5p8)**
 
 ## Contact 
-**[Contact](https://github.com/FNBUBBLES420-ORG/game-vision-aid/blob/main/Contact.md)**
+**[Contact](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/Contact.md)**
 
 ---
 ---
 
-# [Main Folder README.MD](https://github.com/FNBUBBLES420-ORG/game-vision-aid/blob/main/Main/readme.md)
+# [Main Folder README.MD](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/Main/readme.md)
 
 
 ## Support the Project ⭐
@@ -87,8 +87,8 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 **This project is proprietary, and all rights are reserved by the author. Unauthorized copying, distribution, or modification of this project is strictly prohibited unless you have written permission from the developer or the FNBUBBLES420 ORG.**
 
 ## 📧 Contact
-- **[Bubbles The Dev](https://github.com/FNBUBBLES420-ORG/game-vision-aid/blob/main/Contact.md)**
-- **[Main Office](https://github.com/FNBUBBLES420-ORG/game-vision-aid/blob/main/Contact.md)**
+- **[Bubbles The Dev](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/Contact.md)**
+- **[Main Office](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/Contact.md)**
 
 ## 👨‍💻 Developed by [Bubbles The Dev](https://github.com/kernferm) - Making gaming more accessible for everyone!
 
