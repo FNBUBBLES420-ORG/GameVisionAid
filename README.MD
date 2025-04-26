@@ -11,7 +11,7 @@
 # **🚨🚨🚨BETA TESTING , YOU WILL RECIEVE ROLE WHEN YOU COME INTO OUR DISCORD SERVER 🚨🚨🚨**
 # **🚨🚨🚨FORK IT FOR FIXING, PLEASE JOIN THE DISCORD!!! THANKS🚨🚨🚨**
 ---
-# IF YOU HAVE `ANY ISSUES` WITH `GAME VISION AID` `JOIN THE DISCORD` THANKS [CLICK HERE](https://github.com/FNBUBBLES420-ORG/game-vision-aid/blob/main/issues_join_discord.MD)
+# IF YOU HAVE `ANY ISSUES` WITH `GAME VISION AID` `JOIN THE DISCORD` THANKS [CLICK HERE](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/issues_join_discord.MD)
 ---
 # **🛑** ***READ EVERYTHING CAREFULLY !!!*** **🛑**
 
