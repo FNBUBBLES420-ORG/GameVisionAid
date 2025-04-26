@@ -4,4 +4,4 @@
 
 
 ## Contributors
-- [Kevin Freistroffer](https://github.com/KevinFreistroffer)
+- 
