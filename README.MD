@@ -9,7 +9,8 @@
 # **🚨COMING SOON🚨**
 # **🚨🚨🚨 OFFICIAL RELEASE DATE 2026-27 🚨🚨🚨**
 # **🚨🚨🚨BETA TESTING , YOU WILL RECIEVE ROLE WHEN YOU COME INTO OUR DISCORD SERVER 🚨🚨🚨**
-# **🚨🚨🚨FORK IT FOR FIXING, PLEASE JOIN THE DISCORD!!! THANKS🚨🚨🚨**
+# **🚨🚨🚨FORK IT FOR FIXING ??, PLEASE JOIN THE DISCORD!!! THANKS🚨🚨🚨**
+# **🚨🚨🚨[https://github.com/FNBUBBLES420-ORG/GameVisionAid/issues/2](https://github.com/FNBUBBLES420-ORG/GameVisionAid/issues/2)🚨🚨🚨**
 ---
 # IF YOU HAVE `ANY ISSUES` WITH `GAME VISION AID` `JOIN THE DISCORD` THANKS [CLICK HERE](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/issues_join_discord.MD)
 ---
