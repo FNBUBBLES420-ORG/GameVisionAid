@@ -2,7 +2,7 @@
 
 ### please read the repo
 
-- use python 3.11.6
+- use python 3.11.9
 - fork the repo if you want to contribute ONLY!!!
 - make a pull request
 - there are 5 branches - use `patch-1` to upload or `patch-2` upload new code. 
