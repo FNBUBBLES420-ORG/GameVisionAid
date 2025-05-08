@@ -13,4 +13,7 @@ It is only an overlay that displays boxes around the enemy for enhanced visuals 
 - supports .engine without pycuda :)
 - main.py supports nvidia, amd, cpu, (auto detects)
 
-# OFFICIAL RELEASE DATE 2026-27
+### 5-08-2025
+- if any issues you find fork and contribute
+
+# OFFICIAL RELEASE DATE 2028-29
