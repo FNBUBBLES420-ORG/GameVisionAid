@@ -11,3 +11,6 @@
 - trying to get the visual colors to work properly 
 
 #### if you find anything else, make a notes-2.txt.
+
+
+# use `cuda 11.8` and `cudnn 8.9.6` `tensorrt 8.6.1`
