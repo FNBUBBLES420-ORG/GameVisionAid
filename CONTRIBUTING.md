@@ -4,7 +4,9 @@
 
 - use python `3.11.9`
 - fork the repo if you want to contribute ONLY!!!
-  **fork and submit a pull request**
+```
+fork and submit a pull request
+```
 - make a pull request
 - there are 5 branches - use `patch-1` to upload or `patch-2` upload new code. 
 - download the `main-branch`
