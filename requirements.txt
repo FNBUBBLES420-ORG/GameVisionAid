@@ -4,7 +4,7 @@ opencv-python>==4.8.1.78
 numpy>==1.26.4
 colorama==0.4.6
 pandas==2.2.3
-requests==2.32.3
+requests==2.32.4
 customtkinter==5.2.2
 pywin32==310
 
