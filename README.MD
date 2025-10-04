@@ -22,6 +22,8 @@
 
 ## [Funding](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/.github/FUNDING.yml)
 
+[![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
+
 </div>
 
 # 🎮 GameVisionAid
@@ -97,3 +99,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 `GameVisionAid` **is designed to assist visually impaired or color-blind gamers by enhancing visual cues in video games. It uses real-time object detection to create customizable overlays around enemy players, making it easier to identify and engage with them during gameplay.**
 
 **This tool runs in parallel with any game and does not modify the game files or violate any terms of service. It captures the screen and provides an overlay to help users better perceive in-game elements. The developer is not responsible for any misuse of this tool.**
+
