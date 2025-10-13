@@ -2,4 +2,5 @@
 
 - Ping `Bubbles`
 
-## [CLICK TO JOIN DISCORD](https://discord.gg/eCGpWUf5aR)
+### Join Our Discord
+- **Discord Server**: [![](https://invidget.switchblade.xyz/zQbJJgwbUv)](https://discord.gg/zQbJJgwbUv)
