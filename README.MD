@@ -12,11 +12,9 @@
 # **🚨🚨🚨FORK IT FOR FIXING ??, PLEASE JOIN THE DISCORD!!! THANKS🚨🚨🚨**
 # **🚨🚨🚨[https://github.com/FNBUBBLES420-ORG/GameVisionAid/issues/2](https://github.com/FNBUBBLES420-ORG/GameVisionAid/issues/2)🚨🚨🚨**
 ---
-# IF YOU HAVE `ANY ISSUES` WITH `GAME VISION AID` `JOIN THE DISCORD` THANKS [CLICK HERE](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/issues_join_discord.MD)
----
-# **🛑** ***READ EVERYTHING CAREFULLY !!!*** **🛑**
+## **🛑** ***READ EVERYTHING CAREFULLY !!!*** **🛑**
 
-# **Including**: `Readme.md`, `License.md`, `Code_of_Conduct.md`, `Security.md`.
+## **Including**: `Readme.md`, `License.md`, `Code_of_Conduct.md`, `Security.md`.
 
 ### **[Contribute](https://github.com/FNBUBBLES420-ORG/GameVisionAid/blob/main/CONTRIBUTING.md)**
 
@@ -99,4 +97,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 `GameVisionAid` **is designed to assist visually impaired or color-blind gamers by enhancing visual cues in video games. It uses real-time object detection to create customizable overlays around enemy players, making it easier to identify and engage with them during gameplay.**
 
 **This tool runs in parallel with any game and does not modify the game files or violate any terms of service. It captures the screen and provides an overlay to help users better perceive in-game elements. The developer is not responsible for any misuse of this tool.**
+
 
